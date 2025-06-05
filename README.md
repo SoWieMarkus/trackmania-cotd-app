@@ -2,7 +2,13 @@
 
 # Trackmania COTD App
 
-**DISCLAIMER! This project is not related to Nadeo! Its a fan made project to generate and display a leaderboard for the Trackmania Cup of the Day.**
+> [!NOTE]
+> **DISCLAIMER! This project is not related to Nadeo! Its a fan made project to generate and display a leaderboard for the Trackmania Cup of the Day.**
+
+> [!NOTE]
+> Thank you to everyone who has supported and contributed to this project over the past few years. I have decided to discontinue maintenance of this Trackmania COTD leaderboard project, as I no longer have the time to dedicate to its upkeep. Additionally, there is now a more comprehensive and centralized leaderboard available at [trackmania.io](trackmania.io/#/cotd), which I encourage you to use going forward.
+
+Thank you again for your support and understanding!
 
 This project is based on the work of <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSVwwjM2OoIEWwoiKy1CqMY9oKJ2EXqWvch_gPIrOzL8WtsSoYZ-KjsiZpR3Ygt3U08VW9fxFpRyv6R/pubhtml#">pointerzio</a>! Unfortunately he stopped working on this project.
 
@@ -31,9 +37,9 @@ Feel free to contact me!
 
 ## Used technologies
 
-* <a href="https://github.com/SoWieMarkus/TrackmaniaCOTDRestAPI">Trackmania COTD Rest API</a> (my own API). See documentation <a href="https://github.com/SoWieMarkus/TrackmaniaCOTDRestAPI#readme">here</a>.
+* Trackmania COTD Rest API</a> (my own API, I deleted the repository).
 * <a href="https://trackmania.io/#/totd">trackmania.io</a> API from <a href="https://github.com/codecat">@CodeCat</a>
-* <a href="https://github.com/SoWieMarkus/TrackmaniaCOTDBot">trackmania.io havesting bot</a> collecting data from trackmania.io and imports it into my <a href="https://github.com/SoWieMarkus/TrackmaniaCOTDRestAPI">Trackmania COTD Rest API</a>
+* trackmania.io havesting bot collecting data from trackmania.io and imports it into my Trackmania COTD Rest API
 * <a href="https://github.com/PhilJay/MPAndroidChart">MPAndroidChart</a> to display the pie chart inside the player detail fragment
 * <a href="https://github.com/SoWieMarkus/DefaultAppComponents">DefaultAppComponents</a>
 
@@ -53,9 +59,7 @@ I am using the point system used by <a href="https://docs.google.com/spreadsheet
 
 ### Get results from Cup of the Day
 
-My <a href="https://github.com/SoWieMarkus/TrackmaniaCOTDBot">trackmania.io havesting bot</a> is running continuously on a Raspberry Pi. Every 10 minutes it gets the results of the most recent Cup of the Day from <a href="https://trackmania.io/#/cotd">trackmania.io</a> and sends the data to my <a href="https://github.com/SoWieMarkus/TrackmaniaCOTDRestAPI">Trackmania COTD Rest API</a>. There the new results will be processed and the leaderboard will be updated.
-
-Check out the <a href="https://github.com/SoWieMarkus/TrackmaniaCOTDBot#readme">trackmania.io havesting bot documentation</a> and the <a href="https://github.com/SoWieMarkus/TrackmaniaCOTDRestAPI#readme">API documentation</a>.
+My trackmania.io bot is running continuously on a Raspberry Pi. Every 10 minutes it gets the results of the most recent Cup of the Day from <a href="https://trackmania.io/#/cotd">trackmania.io</a> and sends the data to my Trackmania COTD Rest API. There the new results will be processed and the leaderboard will be updated.
 
 ### Get information about the Track of the Day
 
