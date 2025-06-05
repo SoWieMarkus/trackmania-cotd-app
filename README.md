@@ -41,7 +41,7 @@ Feel free to contact me!
 * <a href="https://trackmania.io/#/totd">trackmania.io</a> API from <a href="https://github.com/codecat">@CodeCat</a>
 * trackmania.io havesting bot collecting data from trackmania.io and imports it into my Trackmania COTD Rest API
 * <a href="https://github.com/PhilJay/MPAndroidChart">MPAndroidChart</a> to display the pie chart inside the player detail fragment
-* <a href="https://github.com/SoWieMarkus/DefaultAppComponents">DefaultAppComponents</a>
+* <a href="https://github.com/SoWieMarkus/android-common-components">android-common-components</a>
 
 ## How does it work
 
