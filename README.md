@@ -6,9 +6,7 @@
 > **DISCLAIMER! This project is not related to Nadeo! Its a fan made project to generate and display a leaderboard for the Trackmania Cup of the Day.**
 
 > [!NOTE]
-> Thank you to everyone who has supported and contributed to this project over the past few years. I have decided to discontinue maintenance of this Trackmania COTD leaderboard project, as I no longer have the time to dedicate to its upkeep. Additionally, there is now a more comprehensive and centralized leaderboard available at [trackmania.io](trackmania.io/#/cotd), which I encourage you to use going forward.
-
-Thank you again for your support and understanding!
+> Thank you to everyone who has supported and contributed to this project over the past few years. I have decided to discontinue maintenance of this Trackmania COTD leaderboard project, as I no longer have the time to dedicate to its upkeep. Additionally, there is now a more comprehensive and centralized leaderboard available at [trackmania.io](trackmania.io/#/cotd), which I encourage you to use going forward. Thank you again for your support and understanding!
 
 This project is based on the work of <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSVwwjM2OoIEWwoiKy1CqMY9oKJ2EXqWvch_gPIrOzL8WtsSoYZ-KjsiZpR3Ygt3U08VW9fxFpRyv6R/pubhtml#">pointerzio</a>! Unfortunately he stopped working on this project.
 
